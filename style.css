@@ -81,7 +81,7 @@
 
       /* MEDIA  */
 
-      @media only screen and (max-width: 750px){
+      @media only screen and (max-width: 900px){
 
         .logo{
             font-size: 17px;
@@ -106,6 +106,15 @@
         footer{
             position: static;
         }
+
+        img{
+            width: 350px;
+        }
+
+        .pug-gif{
+            display: flex;
+            margin-left: 20px;
+        }
     
         }
       
@@ -118,4 +127,50 @@
         .block{
             box-shadow: none;
         }
+
+        img{
+            width: 350px;
+        }
+
+        .pug-gif{
+            display: flex;
+            margin-left: 20px;
+        }
       }
+
+      @media only screen and (min-width: 1120px){
+        .logo{
+            font-size: 17px;
+        }
+
+        .botoes{
+            margin-right: 0px;
+        }
+
+        .botoes li{
+            font-size: 30px;
+        }
+
+        .central{
+            display: block;
+        }
+
+        .block{
+            box-shadow: none;
+        }
+
+        footer{
+            position: static;
+        }
+
+        img{
+            width: 350px;
+        }
+
+        .pug-gif{
+            display: flex;
+        }
+
+        }
+
+      
