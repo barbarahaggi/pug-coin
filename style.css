@@ -138,39 +138,6 @@
         }
       }
 
-      @media only screen and (min-width: 1120px and max-width: 1180px){
-        .logo{
-            font-size: 17px;
-        }
-
-        .botoes{
-            margin-right: 0px;
-        }
-
-        .botoes li{
-            font-size: 30px;
-        }
-
-        .central{
-            display: block;
-        }
-
-        .block{
-            box-shadow: none;
-        }
-
-        footer{
-            position: static;
-        }
-
-        img{
-            width: 350px;
-        }
-
-        .pug-gif{
-            display: flex;
-        }
-
-        }
+     
 
       
